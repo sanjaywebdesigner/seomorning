@@ -1,0 +1,101 @@
+Free Local Business Listing Sites in India
+Posted on Thursday, 29 August 2013 by Divi Fernando
+Looking for a way to up the ante and improve your local SEO? If you run a business in India, this is the blog for you. Listing your business on sites that are relevant to your local audience is a great way to improve your local SEO. The following list of free Indian business listing sites contains the site URL, the PageRank of each of these sites and the niche industries that the site accepts. When a site is listed as generic, it means businesses catering to all possible categories are accepted on the site. If you’re American, check out our other blog on 10 Free US Local Business Listing Sites. We have also introduced a quality metric that saves you the extra effort of researching how well the site fares on four essential elements. The quality metric constitutes the following factors:
+
+WooRank Score
+Domain Authority
+Social Media Popularity
+Traffic Estimate
+The aggregate score is out of 5 where sites above 4 have a prominent presence on the web, sites above 2 have a fairly good position in SERPs and sites below 2 are of average quality but may be beneficial depending on your business niche.
+
+Listing sites for general markets
+
+URL	 PR 	 Score 
+http://www.surfindia.com/	  4	  4.25
+http://www.justdial.com/	  6	  4
+http://www.submitshop.com/	  4	  4
+http://www.indianyellowpages.com/	  5	  3.75
+http://www.99localsearch.com/	  1	  3.75
+http://www.businesslinedirectory.com/	  4	  3.5
+http://indiacom.com/	  5	  3.25
+http://www.yalwa.in/	  4	  3.25
+http://indiacatalog.com/	  3	  3.25
+http://www.vcsdata.com/	  2	  3.25
+http://in.ezilon.com/	  5	  3
+http://yellowpages.webindia123.com/	  5	  3
+http://www.cylex.in/	  4	  3
+http://www.websofindia.com/	  3	  3
+http://www.a4add.com	  3	  3
+http://www.expressbusinessdirectory.com/India-business-directory-C51/6	  0	  3
+http://businesswithindia.in/	  5	  2.75
+http://www.startlocal.in/	  4	  2.75
+http://local.saanj.net/	  3	  2.75
+http://in.enrollbusiness.com/	  0	  2.75
+http://dir.samachar.com/		  2.75
+http://www.bizzduniya.com/	  5	  2.5
+http://www.indiafocus.in/	  4	  2.5
+http://www.beeznesshive.com/	  2	  2.5
+http://aaspaas.com/	  2	  2.5
+http://www.yellowpages99.com/	  1	  2.5
+http://www.innobit.co.in/business-directory	  1	  2.5
+http://www.zoomyellowpages.com/	  0	  2.5
+http://www.my-india.net/dir/	  3	  2.25
+http://www.ebharatbase.com/	  3	  2.25
+http://www.123khoj.com/	  2	  2.25
+http://www.mysheriff.co.in/	  2	  2.25
+http://www.thelinkindia.com/	  2	  2.25
+http://www.goodlinksindia.in/	  1	  2.25
+http://addyp.com/	  0	  2.25
+http://www.onepageprofile.com/	  2	  2
+http://searchingindia.in/	  4	  1.75
+http://www.vanik.com/	  3	  1.75
+http://www.calicutnet.com/variety/dir/	  2	  1.75
+http://a1bizdirectory.com		  1.75
+http://vcpe.in/	  0	  1.75
+http://www.trade2source.com/	  4	  1.5
+http://www.business-india.in/	  2	  1.5
+http://www.bindia.com/bd/subhead/index.asp	  2	  1.5
+http://seolistsite.com/	  1	  1.5
+http://www.businesslistingindia.com/	  0	  1.5
+http://directory.mandsauronline.com/	  0	  1.25
+http://www.indiaonestop.com/classified%20index.htm	  5	  1
+Listing sites for niche markets
+
+URL	 PR 	Niche	 Score 
+http://www.indiamart.com/	  6	Products	  5
+http://www.eindiabusiness.com/	  5	Products and Services	  4
+http://whereincity.com/yellow-pages/	  4	Service providers and traders	  4
+http://www.exportersindia.com/	  5	Exporters, importers. Manufacturers and service providers	  3.75
+http://www.indianindustry.com/	  5	Manufacturers, exporters and wholesalers	  3.75
+http://biz.prlog.org/	  5	Products and services	  3.75
+http://www.dialusindia.com/index.php	  0	Automobiles, real estate, doctors, fashion, restaurants, mobile, movies, hotels, gifts, travel, jewelry, logistics	  3.5
+http://www.askme.com		Products, services and companies	  3.5
+http://www.infoline.in/	  2	Hotel, cafeteria, restaurant, shopping mall, multiplex, travel agent, florist, salon	  3.25
+http://www.indiantradecenter.com/index.php		Buyers and sellers	  3
+http://gidonline.com/	  4	Business based in Gujurat	  2.75
+http://www.maharashtradirectory.com/	  4	Businesses based in Maharashtra	  2.75
+http://biz.indiaonline.in/Index.html	  3	Hotel, restaurant,NGO/social and business	  2.75
+http://www.indianexporters.com/	  5	Manufacturers and exporters	  2.75
+http://indiabizclub.com/	  4	Manufacturers, retailers and suppliers	  2.75
+http://www.dealerdice.com/	  1	Products and services	  2.75
+http://exportersindia.net/	  3	Buyers and sellers, manufacturers, exporters, importers	  2.5
+http://www.indiabusinessportal.com/	  4	Products and services	  2,25
+http://www.indiaontrade.com	  1	Traders, exporters, suppliers and manufacturers	  2,25
+http://www.barodadirect.com/	  2	Business based in Gujurat	  2
+http://www.my-kerala.com/dir/	  3	Business based in Kerala	  2
+http://bestonlineshoppingsitesindia.com/	  0	E-commerce	  2
+http://www.eximdata.com/	  3	Exporters, importers. Manufacturers and dealers	  2
+http://www.serviceindia.com/	  0	Pune based businesses	  2
+http://indiarefer.com/	  2	business, shopping, suppliers, manufacturers	  1.75
+http://altaindia.com/	  2	exporters, importers. Trading houses, service providers	  1.75
+http://www.vibrantdirectory.com/directory.php	  1	Gujurat Industries	  1.75
+http://www.clickblue.in/	  0	Products and services	  1.75
+http://scientificdealers.com/	  4	Sciendtific instrument manufacturers and suppliers	  1.75
+http://www.my-telugu.com/dir/	  3	Businesses based in Andhra Pradesh	  1.5
+http://directories-today.com/	  5	Exporters, importers. Manufacturers and suppliers	  1.5
+http://indiamaal.com/	  3	Exporters, importers. Manufacturers and suppliers	  1.5
+http://www.kothrud.in/	  0	Kothrud, Pune based businesses	  1.5
+http://fayda.co.in/	  0	Movies. Events, hotels, resorts, restaurants, pubs, logistics, real estate	  1.5
+http://indiarubberdirectory.com/	  2	Rubber product manufacturers	  1.5
+http://indiabusinessenquiry.com/	  1	Product and services	  1.25
+http://www.maharashtrabusinesspages.com/	  2	Businesses based in Maharashtra	  1

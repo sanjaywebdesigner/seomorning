@@ -1,0 +1,50 @@
+online-
+
+How Search Engine Works
+Google Adword Keyword Tool
+Keyword Research and Competitor Analysis 
+Finding Right Appropriate Keywords
+Keyword Density Analysis and Placement
+Title & Meta Tags (keywords) development
+What are Meta Tags
+-Description
+-Keywords
+-Author
+-Country
+-Copywrite
+Why is Alexa?
+Alexa Integration
+URL renaming/re-writing
+Duplicate content
+H1, H2, H3 Tags
+Anchor Text
+LSI
+Creating of Favicons
+Image Optimization
+HTML Validation using W3C
+URL Rewriting Techniques (301, 302)
+Canonical / 404 Implementation
+SEO Content Writing
+Content Development Check
+Internal/External Links
+Outbound/Inbound Links
+SEO Tools and Mozilla Add ons and Google Add ons
+--Ping.fm, Onlywire, dlvr.it, hootsuit
+Feedburner
+RSS
+No follow and do Follow Links
+Linkwith Plugin
+Google Sandbox
+Google updates
+Google Page Rank
+Google SEO Guidelines
+Google webmaster tools
+Yahoo Feed Submission
+Black Hat SEO
+ - Keyword Stuffing
+ - Cloaking , Doorway Pages
+ - Hidden text, Remover Underline from Hyperlink
+ - Buying Links
+Robot.txt file
+Creation of XML / HTML / Text Sitemaps
+Page Speed Optimization 
